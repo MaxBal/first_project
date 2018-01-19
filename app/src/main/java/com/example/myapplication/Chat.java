@@ -1,4 +1,4 @@
-package com.example.myapplication;
+/*package com.example.myapplication;
 
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
@@ -27,3 +27,4 @@ public class Chat extends AppCompatActivity {
     }
 
 }
+*/
